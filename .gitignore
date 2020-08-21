@@ -5,29 +5,3 @@
 
 # node
 node_modules
-
-# babel
-lib
-
-# eslint
-.eslintcache
-
-# flow
-**/flow-typed/npm
-
-# jest
-coverage
-
-# relay
-__generated__
-schema.graphql
-
-# next.js
-.next
-
-# prisma
-schema.prisma
-dev.db
-
-# .env
-.env
