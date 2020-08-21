@@ -1,5 +1,5 @@
 module.exports = {
-  stories: ['../stories/**/*.stories.js'],
+  stories: ['../stories/**/*.js'],
   webpackFinal: config => {
     config.module.rules.push({
       test: /\.less$/,
