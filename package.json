@@ -1,6 +1,6 @@
 {
-  "name": "example",
-  "description": "storybook example",
+  "name": "storybook-example",
+  "description": "Storybook example",
   "license": "MIT",
   "author": "example@github.com",
   "version": "1.0.0",
